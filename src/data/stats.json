@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "img": "fa fa-users",
+    "name": "Happy Clients",
+    "val": 157000
+  },
+  {
+    "id": 2,
+    "img": "fa fa-calendar-check-o",
+    "name": "Branches",
+    "val": 850
+  },
+  {
+    "id": 3,
+    "img": "fa fa-briefcase",
+    "name": "Our Events",
+    "val": 5000
+  },
+  {
+    "id": 4,
+    "img": "fa fa-trophy",
+    "name": "Awards",
+    "val": 110
+  }
+
+]
